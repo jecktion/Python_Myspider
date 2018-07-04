@@ -1,0 +1,6 @@
+proxy  type  anonymity_level
+212.126.113.179:80  HTTP  Elite
+61.191.41.130:80  HTTP  Elite
+207.154.231.209:8080  HTTP  Elite
+60.169.19.66:9000  HTTP  Elite
+47.52.18.182:80  HTTP  Transparent
